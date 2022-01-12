@@ -1,1 +1,0 @@
-"""Desenvolva um programa que leia o comprimentos de três retas e diga se pode ou não formar um triângulo"""

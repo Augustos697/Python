@@ -1,1 +1,0 @@
-"""Crie um programa que leia o nome de uma cidade e diga se ela começa ou náo com o nome santo"""
